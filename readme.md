@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Clipboard app [Live Link](https://name-conversion-js.netlify.app/)
+## Clipboard app [Live Link](https://clipboradapp.netlify.app/)
 
 - Skills Gained in this project
 
